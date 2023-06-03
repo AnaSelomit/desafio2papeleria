@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+}
+
+
+.cabecera {
+    width: 100%;
+    background-image: url(../img/fotos4.png);
+    background-size: cover;
+    height: 600px;
+}
+
+.titulo {
+    width: 35%;
+    text-align: initial;
+    padding: 9em;
+}
+
+.titulo h1{
+    font-family: 'Outfit', sans-serif;
+    font-size: 3.5em;
+    font-weight: 600;
+    color:#df93b2;
+
+    
+}
+
+.titulo h3 {
+    font-family: 'Outfit', sans-serif;
+    font-weight: 200;
+}
+
+
+
+.productos {
+    
+    margin: 12em;
+   
+}
+
+td {
+    padding: 3em;
+}
+
+.productos h4{
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+    color:#df93b2;
+    font-size: 2em;
+
+}
+
+.productos p {
+
+    font-family: 'Outfit', sans-serif;
+    font-weight: 200;
+
+}
+
+.precio {
+
+    font-family: 'Outfit', sans-serif;
+    color:#df93b2;
+    font-size: 1em;
+}
+
+footer {
+    background-color: #df93b2;
+    color: #ffffff;
+    text-align: center;
+    padding: 0.5em;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 600;
+    font-size: 1em;
+}
